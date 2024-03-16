@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailApi", "MailApi\MailApi.csproj", "{1E71E49F-1681-4B7B-8025-058A667F5A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E71E49F-1681-4B7B-8025-058A667F5A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E71E49F-1681-4B7B-8025-058A667F5A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E71E49F-1681-4B7B-8025-058A667F5A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E71E49F-1681-4B7B-8025-058A667F5A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915AC1B9-1407-4A3F-8B19-0492C1BA5C48}
+	EndGlobalSection
+EndGlobal
